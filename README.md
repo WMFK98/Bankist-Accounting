@@ -6,6 +6,14 @@
 
 The Bankist Account project is part of Jonas Schmedtmann’s course section on Numbers, Dates, and Timers. This project focuses on building a banking application that handles user accounts, transactions, and various financial operations with real-time updates. It demonstrates how to work with numbers, dates, and timers in JavaScript.
 
+## Test
+
+https://bankist-accounting.vercel.app
+
+### User Avaliable
+user: wm passowrd: 1111
+user: jd passowrd: 2222
+
 ## Key Features
 
 - **User Accounts**: Allows users to create and manage their bank accounts.
